@@ -13,12 +13,12 @@ n_train=-1#1000
 n_test=-1#200
 
 
-data_folder="/home/justin/lab/ml/mura/my-mura-model/data/"
+data_folder="./data/"
 
-train_image_paths = data_folder  + "/MURA-v1.1/train_image_paths.csv"
-train_labeled_studies = data_folder + "/MURA-v1.1/train_labeled_studies.csv"
-valid_image_paths = data_folder  + "/MURA-v1.1/valid_image_paths.csv"
-valid_labeled_studies = data_folder + "/MURA-v1.1/valid_labeled_studies.csv"
+train_image_paths = data_folder  + "MURA-v1.1/train_image_paths.csv"
+train_labeled_studies = data_folder + "MURA-v1.1/train_labeled_studies.csv"
+valid_image_paths = data_folder  + "MURA-v1.1/valid_image_paths.csv"
+valid_labeled_studies = data_folder + "MURA-v1.1/valid_labeled_studies.csv"
 
 bone_name="XR_SHOULDER" # or ALL
 reload = True
