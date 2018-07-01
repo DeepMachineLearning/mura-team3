@@ -24,6 +24,10 @@ Task 2: Connecting to Your DL AMI Instance from Windows Using PuTTY
 
 myMNIST.ipynb
 
+## Learning CNN resources
+
+#### http://deeplearning.net/software/theano_versions/dev/tutorial/conv_arithmetic.html
+
 ## Authors
 
 * **Walter Lu** - *Initial work* 
