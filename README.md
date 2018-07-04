@@ -1,29 +1,35 @@
-# mura-team3
+# mura-team3 Repo 
+We are a AI team, Keep learning 
 
-Week 1 Task: MNIST Training
+## Folder structure 
 
-## Getting Started
+├── data
+│   └── MURA-v1.1
+│       ├── train
+│       └── valid
+├── modules 
+└── utils
+    |── util.py
+    |── mura_utils.py 
 
-The following instructions is based on my experience with AWS AMI setup.
+data: a folder - contains all the mura  image data 
+modules:  represents all scripts, including informal study tutorials and formal modules
+utils:  a folder - contains all common self-defined data access or display functions 
 
-### Prerequisites 
+## Prerequisites Libraries 
+autotime
+tensorflow 
+Keras
+matplotlib
+ pathlib
+progressbar
+pandas
+Pillow 
 
-You need to have AWS account in order to setup AWS Deep Learning AMI.
+### Notebooks
 
-### Installing
+(0_1_tutorial_load_mura_data_ipynb）
+The demo for load mura data  
 
-Task 1: create a EC2 instance with DL AMI. If you use Windows, please ignore step 3a from the link below and perform task 2 first. Then you can resume step 3b to start the jupyter notebook.
 
-#### https://aws.amazon.com/getting-started/tutorials/get-started-dlami/
-
-Task 2: Connecting to Your DL AMI Instance from Windows Using PuTTY
-
-#### https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html
-
-## Running the MNIST Keras code by using jupyter
-
-myMNIST.ipynb
-
-## Authors
-
-* **Walter Lu** - *Initial work* 
+Note: this Repository keeps updating...
