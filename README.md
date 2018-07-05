@@ -1,35 +1,39 @@
+# MURA Team 2 Repo
 
 We are an AI team, Keep learning 
 
 ## Folder structure 
+```
+├── data 
+    │   └── MURA-v1.1 
+    │       ├── train 
+    │       └── valid  
+    ├── modules 
+    └── utils 
+        |── util.py  
+        |── mura_utils.py 
+```
 
-├── data <br>
-│   └── MURA-v1.1 <br>
-│       ├── train  <br>
-│       └── valid  <br>
-├── modules <br>
-└── utils <br>
-    |── util.py  <br>
-    |── mura_utils.py <br>
+* data: a folder - contains all the mura  image data <br>
+* modules:  represents all scripts, including informal study tutorials and formal modules  <br>
+* utils:  a folder - contains all common self-defined data access or display functions  <br>
 
-data: a folder - contains all the mura  image data 
-modules:  represents all scripts, including informal study tutorials and formal modules
-utils:  a folder - contains all common self-defined data access or display functions 
-
+ 
 ## Prerequisites Libraries 
-autotime
-tensorflow 
-Keras
-matplotlib
-pathlib
-progressbar2
-pandas
-Pillow 
-
+autotime <tb>
+tensorflow <tb>
+Keras <tb>
+matplotlib <tb>
+pathlib <tb>
+progressbar2  <tb>
+pandas <tb>
+Pillow  <tb>
+ 
 ### Notebooks
 
-(0_1_tutorial_load_mura_data_ipynb）
-The demo for load mura data  
-
+1. [0_1_tutorial_load_mura_data_ipynb]
+A demo for load mura data  
+2. [0_2_tutorial_mura_with_keras.ipynb] 
+A tutorial tells how to build a simple CNN module with keras, and test using mura dataset
 
 Note: this Repository keeps updating...
