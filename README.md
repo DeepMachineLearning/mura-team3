@@ -31,9 +31,9 @@ Pillow  <tb>
  
 ### Notebooks
 
-1. [0_1_tutorial_load_mura_data_ipynb]
+1. [0_1_tutorial_load_mura_data_ipynb](0_1_tutorial_mura_with_keras.ipynb)  
 A demo for load mura data  
-2. [0_2_tutorial_mura_with_keras.ipynb] 
+2. [0_2_tutorial_mura_with_keras.ipynb](0_2_tutorial_mura_with_keras.ipynb)  
 A tutorial tells how to build a simple CNN module with keras, and test using mura dataset
 
 Note: this Repository keeps updating...
