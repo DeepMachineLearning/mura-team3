@@ -1,16 +1,16 @@
-# mura-team3 Repo 
-We are a AI team, Keep learning 
+
+We are an AI team, Keep learning 
 
 ## Folder structure 
 
-├── data
-│   └── MURA-v1.1
-│       ├── train
-│       └── valid
-├── modules 
-└── utils
-    |── util.py
-    |── mura_utils.py 
+├── data <br>
+│   └── MURA-v1.1 <br>
+│       ├── train  <br>
+│       └── valid  <br>
+├── modules <br>
+└── utils <br>
+    |── util.py  <br>
+    |── mura_utils.py <br>
 
 data: a folder - contains all the mura  image data 
 modules:  represents all scripts, including informal study tutorials and formal modules
@@ -21,8 +21,8 @@ autotime
 tensorflow 
 Keras
 matplotlib
- pathlib
-progressbar
+pathlib
+progressbar2
 pandas
 Pillow 
 
