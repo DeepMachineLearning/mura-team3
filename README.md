@@ -28,6 +28,7 @@ pathlib <tb>
 progressbar2  <tb>
 pandas <tb>
 Pillow  <tb>
+sklearn <tb>
  
 ### Notebooks
 
