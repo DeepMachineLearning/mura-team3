@@ -1,4 +1,4 @@
-# MURA Team 2 Repo
+# MURA Team 3 Repo
 
 We are an AI team, Keep learning 
 
