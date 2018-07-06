@@ -39,4 +39,5 @@ A demo for load mura data
 A tutorial tells how to build a simple CNN module with keras, and test using mura dataset
 3. [0_3_tutorial_Cohen_Kappa_confution_matrix.ipynb](0_3_tutorial_Cohen_Kappa_confution_matrix.ipynb).   
 A tutorial tells how to calculate Kappa and plot confution matrix using Scilearn lib.   
+<br>
 Note: this Repository keeps updating...
