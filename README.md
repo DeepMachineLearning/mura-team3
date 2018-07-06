@@ -28,7 +28,8 @@ pathlib <tb>
 progressbar2  <tb>
 pandas <tb>
 Pillow  <tb>
-sklearn <tb>
+sklearn <tb> 
+more-itertools <tb>
  
 ### Notebooks
 
