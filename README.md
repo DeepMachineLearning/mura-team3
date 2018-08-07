@@ -1,6 +1,25 @@
 # mura-team3
+## MURA update
+### Recommendation for Computing Power
+CPU: 8 Cores - 12 Cores
 
-Week 1 Task: MNIST Training
+CPU Memory: >= 70G (load all images with format 224x224x3)
+
+GPU: 2
+
+GPU Memory: >=10G per GPU
+
+### Data Pre-process
+1. Change "data_path" variable in mura_dataload.py file to your path that holds "MURA-V1.1" train/validation files.  
+   Then Run: "python mura_dataload.py" 
+   
+### Train the model
+
+Run: "python IncV3.py --epochs 20"
+If you want to try other hpyerparameters, please run "python IncV3.py --help"
+
+
+## Week 1 Task: MNIST Training
 
 ## Getting Started
 
